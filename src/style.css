@@ -1,0 +1,63 @@
+body{
+     font-family:'poppins';
+}
+
+.intro-img{
+     background: linear-gradient( rgba(3,3,3,0.5), rgba(3,3,3,0.5)),url('../public/Images/main.png');
+     background-size: 100%;
+     /* max-width: 100%; */
+     height: auto;
+     /* background-size: "cover"; */
+     /* background-repeat: no-repeat;  */
+     /* height: "45rem"; */
+}
+.about-company{
+     opacity: 70%;
+}
+.about-img{
+     /* box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.5), 0 10px 20px 0 rgba(0, 0, 0, 0.19); */
+     
+     box-shadow: 0px 15px 10px -15px #111;  
+}
+
+.pr-img-all{
+     display: grid;
+     justify-items: center;
+}
+.pr-img{
+     width: 70%;
+          
+}
+
+.Products{
+     box-shadow: 0px 68px 118px -133px #808080
+}
+
+.ship{
+     background: linear-gradient( rgba(3,3,3,0.5), rgba(3,3,3,0.5)),url('../public/Images/Ship.png');     
+     background-repeat: no-repeat;
+     background-size: cover;
+     /* height: 20rem; */
+}
+
+.product-img{
+     background: linear-gradient( rgba(3,3,3,0.5), rgba(3,3,3,0.5)),url('../public/Images/ProductMain.png');
+     background-repeat: no-repeat;
+     background-size: cover;
+     /* height: 15rem; */
+
+}
+
+.aboutus-img{
+     background: linear-gradient( rgba(3,3,3,0.5), rgba(3,3,3,0.5)),url('../public/Images/AboutUs.png');
+     background-repeat: no-repeat;
+     background-size: cover;
+     /* height: 3   8rem; */
+}
+
+.Contact-img{
+     background: linear-gradient( rgba(3,3,3,0.5), rgba(3,3,3,0.5)),url('../public/Images/ContactUs.png');
+     background-repeat: no-repeat;
+     background-size: cover;
+     /* height: 38rem; */
+}
